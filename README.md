@@ -28,6 +28,8 @@ This project implements a scalable, event-driven data pipeline using AWS service
 ## Query and Visualize
 - Athena queries the data using SQL.
 - QuickSight visualizes insights using dashboards and charts.
+## Project Architecture
+![QuickSight_Dashboard](Screenshot 2025-03-24 005722.png).
 
 ## 🛡Error Handling and Monitoring
 - SQS Dead Letter Queue (DLQ) stores failed Lambda messages.
