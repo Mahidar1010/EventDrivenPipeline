@@ -66,8 +66,8 @@ pip install boto3 pandas pyarrow
 6. Configure Athena to query Glue Data Catalog tables.
 7. Create visualizations using Amazon QuickSight.
 
-## 🤝 Contributing
+## Contributing
 Feel free to raise issues or contribute through pull requests.
 
-## 📧 Contact
-For any questions, reach out to [Mahidar Reddy Putta](https://www.linkedin.com/in/mahidar-putta/) on LinkedIn.
+## Contact
+For any questions, reach out to [Mahidar Reddy Putta](https://www.linkedin.com/in/mahidar-reddy-putta-8258b2203/) on LinkedIn.
