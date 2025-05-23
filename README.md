@@ -8,7 +8,7 @@ This project implements a scalable, event-driven data pipeline using AWS service
 - **API:** Ninjas API
 - **Python Libraries:** Boto3, Pandas, PyArrow
 
-## Project Architectur
+## Project Architecture
 ![Architecture](EDP.png)
 
 ## Extract: Real-Time Data Ingestion
